@@ -425,7 +425,7 @@ header {
 }
 
 .bgteam {
-    background-image: url(./media/foto7.jpg);
+    background-image: url(media/foto7.jpg);
     background-size: cover;
     background-position: center;
     padding: 0;
@@ -958,7 +958,7 @@ header {
 }
 
 .section-map {
-    background-image: url(../images/mapa.png);
+    background-image: url(images/mapa.png);
     background-position: center;
     background-size: cover;
 }
