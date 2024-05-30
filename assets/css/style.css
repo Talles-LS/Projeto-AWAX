@@ -1303,7 +1303,7 @@ footer .circle:hover {
 
 }
 
-@media (max-width:450px) {
+@media (max-width:500px) {
 
     .logo {
         margin-left: 3rem;
